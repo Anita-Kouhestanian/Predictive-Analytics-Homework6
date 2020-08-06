@@ -1,0 +1,22 @@
+Variable	Definition (obvious variables not explained)
+Churn		(binary) your target variable, 1 is your primary outcome
+Account Length	(continuous) how long account has been active
+Area Code	(categorical)
+CustServ Calls	(continuous) number of calls to customer service department
+Int¡¯l Plan	(binary) International plan
+Phone		(categorical) unique phone number of the customer; good for an ID field
+State		(categorical)
+VMail Plan	(binary) voice mail plan
+VMail Message	(continuous) number of voice mail messages
+Day Mins	(continuous) total day minutes
+Day Calls	(continuous) total day calls
+Day Charge	(continuous) total day charge
+Night Mins	(continuous) total evening minutes
+Night Calls	(continuous) total evening calls
+Night Charge	(continuous) total evening charge
+Eve Mins	(continuous) total night minutes
+Eve Calls	(continuous) total night calls
+Eve Charge	(continuous) total night charge
+Intl Mins	(continuous) total international minutes
+Intl Calls	(continuous) total international calls
+Intl Charge	(continuous) total international charge
